@@ -1,0 +1,20 @@
+CV001|Hoan thanh bao cao thang 8|Tong hop so lieu kinh doanh thang 8 va viet bao cao|01/08/2026|10/08/2026|Cao|Hoan thanh|100|Da gui cho truong phong
+CV002|Chuan bi slide hop khach hang|Lam slide gioi thieu san pham moi cho khach ABC|20/08/2026|25/08/2026|Cao|Hoan thanh|100|
+CV003|Sua loi phan mem quan ly kho|Fix bug hien thi sai so luong ton kho|01/09/2026|05/09/2026|Cao|Dang thuc hien|60|Uu tien xu ly truoc 12h
+CV004|Hoc khoa hoc Python nang cao|Hoan thanh 10 bai giang tren Udemy|15/08/2026|30/09/2026|Trung binh|Dang thuc hien|40|
+CV005|Don dep nha cua cuoi tuan|Don dep phong khach va phong ngu|10/09/2026|13/09/2026|Thap|Chua bat dau|0|
+CV006|Nop bao cao thue quy 3|Tong hop chung tu va nop to khai thue quy 3|01/09/2026|15/09/2026|Cao|Dang thuc hien|50|Han chot khong duoc tre
+CV007|Kham suc khoe dinh ky|Kham tong quat tai benh vien|05/09/2026|20/09/2026|Trung binh|Chua bat dau|0|Da dat lich hen
+CV008|Chuan bi qua sinh nhat cho me|Mua qua va dat banh sinh nhat|01/09/2026|10/09/2026|Cao|Chua bat dau|0|Sap qua han, can lam gap
+CV009|On tap thi chung chi IELTS|Luyen de va hoc tu vung moi ngay|01/07/2026|01/10/2026|Trung binh|Dang thuc hien|55|
+CV010|Sua xe may dinh ky|Thay nhot va kiem tra phanh|20/08/2026|05/09/2026|Thap|Chua bat dau|0|Da qua han nhung chua lam
+CV011|Viet bai blog ca nhan thang 9|Chia se kinh nghiem hoc Python|01/09/2026|30/09/2026|Thap|Dang thuc hien|20|
+CV012|Don dep hop thu email|Xoa email rac va sap xep thu muc|01/09/2026|08/09/2026|Thap|Hoan thanh|100|
+CV013|Chuan bi ho so xin viec|Cap nhat CV va portfolio ca nhan|25/08/2026|12/09/2026|Cao|Dang thuc hien|70|Han sap toi, uu tien cao
+CV014|Tap the duc buoi sang|Chay bo 30 phut moi sang|01/09/2026|30/09/2026|Trung binh|Dang thuc hien|45|
+CV015|Sap xep lai tu sach|Phan loai sach theo chu de|05/09/2026|11/09/2026|Thap|Chua bat dau|0|Da qua han 2 ngay
+CV016|Lam bao cao tot nghiep|Viet chuong 1 va chuong 2 luan van|15/07/2026|25/09/2026|Cao|Dang thuc hien|35|Can gap giao vien huong dan
+CV017|Dang ky hoc phi hoc ky moi|Dong hoc phi truoc han quy dinh|01/09/2026|20/09/2026|Cao|Chua bat dau|0|
+CV018|Kiem tra bao tri dieu hoa|Goi tho den bao tri dinh ky|10/08/2026|01/09/2026|Thap|Chua bat dau|0|Da qua han, can goi lai
+CV019|Hoc them tieng Anh giao tiep|Tham gia lop hoc online 3 buoi/tuan|01/06/2026|31/12/2026|Trung binh|Dang thuc hien|30|
+CV020|Tong ket chi tieu ca nhan thang 8|Xem lai cac khoan chi tieu va lap ke hoach tiet kiem|01/09/2026|07/09/2026|Trung binh|Hoan thanh|100|
