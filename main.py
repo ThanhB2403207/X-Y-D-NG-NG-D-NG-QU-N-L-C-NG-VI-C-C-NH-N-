@@ -23,7 +23,7 @@ def hien_thi_menu_chinh():
     print("2. Hien thi danh sach")
     print("3. Cap nhat cong viec")
     print("4. Xoa cong viec")
-    print("5. Tim kiem")
+    print("5. Tim kiem cong viec")
     print("6. Sap xep")
     print("7. Tinh toan/Thong ke")
     print("8. Luu du lieu")
