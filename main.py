@@ -76,8 +76,5 @@ def main():
         print(">> File du lieu chua ton tai. Chuong trinh se bat dau voi danh sach rong.")
 
     menu(danh_sach_cv)
-
-
-
 if __name__ == "__main__":
     main()
